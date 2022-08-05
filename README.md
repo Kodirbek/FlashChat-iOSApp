@@ -1,4 +1,6 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# This is an app I made by following Angela Yu in her course on Udemy. I appreciate your time and effort to review this app. Thank you!
+
+## Below in the original ReadMe text.
 
 # Flash-Chat
 
@@ -50,6 +52,5 @@ struct K {
 
 ```
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). 
 
-![End Banner](Documentation/readme-end-banner.png)
